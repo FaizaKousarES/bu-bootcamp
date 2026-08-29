@@ -1,0 +1,11 @@
+========== GRADE DISTRIBUTION REPORT ==========
+Total scores processed : 11
+Average score          : 71.45
+Highest score          : 100
+Lowest score           : 33
+-----------------------------------------------
+Grade A (90+)          : 2
+Grade B (80-89)        : 2
+Grade C (70-79)        : 3
+Grade D (60-69)        : 1
+Grade F (Below 60)     : 3
